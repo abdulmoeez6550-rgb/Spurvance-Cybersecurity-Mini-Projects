@@ -3,7 +3,7 @@
 **Intern:** Abdul Moeez  
 **Program:** Cybersecurity Internship — Session 1  
 **Organization:** Spurvance Labs  
-**Date:** October 2026
+**Date:** 17 October 2026
 
 ## Overview
 
