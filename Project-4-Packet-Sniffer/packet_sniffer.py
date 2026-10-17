@@ -29,9 +29,9 @@ print("Waiting for 10 IP packets. Press Ctrl+C to stop early.\n")
 
 sniff(
     iface="Software Loopback Interface 1",
-    filter="udp and host 127.0.0.1 and port 9999",
+    filter="ip and host 127.0.0.1",
     prn=analyze_packet,
-    count=1,
+    count=10,
     store=False,
 )
 
